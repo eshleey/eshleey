@@ -1,6 +1,5 @@
 # [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=b0d3e6&width=435&lines=Hello+World!+I'm+Elif+Sude.;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
-<br>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/89/df/03/89df03efbee79d7aaf838ee0041187c4.gif"
 width="500" height="292" />
 
