@@ -3,9 +3,8 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/89/df/03/89df03efbee79d7aaf838ee0041187c4.gif"
 width="500" height="292" />
 
-- 🎮 currently working on Unity.
-- 👩🏻‍💻 interested in game development.
-- 📖 4th year computer engineering student at Ondokuz Mayıs University.
+- 👩🏻‍💻 interested in backend / full stack.
+- 📖 I graduated from Ondokuz Mayıs University.
 
 ### 🌐 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudeelifc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elif-sude-çetinkayaa)
